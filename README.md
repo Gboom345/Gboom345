@@ -3,4 +3,4 @@
 - 🌱 I’m currently and always learning all the above
 - 💞️ I’m looking to collaborate on anything python related. 
 I'll update this as I grow. For now I don't think there is an easier language (in terms of syntax) than
-Python. Hopefully someone can change my mind. Why should life be hard? Right
+Python. Hopefully someone can change my mind. Why should life be hard? Right?!
